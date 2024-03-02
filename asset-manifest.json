@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Valantis/static/css/main.3e139f01.css",
+    "main.js": "/Valantis/static/js/main.8608a665.js",
+    "static/media/kolca.webp": "/Valantis/static/media/kolca.253dbd2a8931d65d92d6.webp",
+    "static/media/logo-svg.svg": "/Valantis/static/media/logo-svg.1239d3babe16324c94c3d3e00919f979.svg",
+    "static/media/braslety.webp": "/Valantis/static/media/braslety.5275918ec3450ac164a6.webp",
+    "static/media/brendy.webp": "/Valantis/static/media/brendy.4cb43f2e5d475c068cd4.webp",
+    "static/media/kole.webp": "/Valantis/static/media/kole.b027f63698d716a982bf.webp",
+    "static/media/broshi.webp": "/Valantis/static/media/broshi.46912f06aa8e8306a0e1.webp",
+    "static/media/podveski.webp": "/Valantis/static/media/podveski.c385b9bed122587a7576.webp",
+    "static/media/slick.svg": "/Valantis/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Valantis/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Valantis/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Valantis/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Valantis/index.html",
+    "main.3e139f01.css.map": "/Valantis/static/css/main.3e139f01.css.map",
+    "main.8608a665.js.map": "/Valantis/static/js/main.8608a665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e139f01.css",
+    "static/js/main.8608a665.js"
+  ]
+}
