@@ -15,7 +15,7 @@ const runLoader = (param) => {
     currentDate.getUTCDate().toString().padStart(2, '0'),
   );
   const hash = md5(xAuth);
-  const baseUrl = 'http://api.valantis.store:40000/';
+  const baseUrl = 'https://api.valantis.store:41000/';
   const body = setBody(param);
   const repeat = 3;
   let count = 0;
